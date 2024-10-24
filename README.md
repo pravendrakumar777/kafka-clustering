@@ -1,7 +1,6 @@
 # kafka-clustering
 
-This repository has all the information about kafka clustering.
-Will create 3 kafka brokers
+This repository has all the information about kafka clustering, will create 3 kafka brokers in locally, same stretegy can follow on aws server side and create multiple brokers.
 
 1. First we will create server-1.properties file.
 2. Second we will create server-2.properties file.
